@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="TheSearchInPCModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="SearchAnswer">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" />
+    <Property Name="SearchName" Type="nvarchar" MaxLength="50" />
+    <Property Name="SearchResult" Type="nchar" MaxLength="10" />
+  </EntityType>
+  <EntityType Name="SearchMethod">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" />
+    <Property Name="SearchText" Type="nvarchar" MaxLength="50" />
+    <Property Name="RootFile" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityContainer Name="TheSearchInPCModelStoreContainer">
+    <EntitySet Name="SearchAnswer" EntityType="Self.SearchAnswer" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="SearchMethod" EntityType="Self.SearchMethod" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

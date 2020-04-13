@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="TheSearchInPCModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="SearchAnswer">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" />
+    <Property Name="SearchName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="SearchResult" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+  </EntityType>
+  <EntityType Name="SearchMethod">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" />
+    <Property Name="SearchText" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="RootFile" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityContainer Name="TheSearchInPCEntities1" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="SearchAnswers" EntityType="Self.SearchAnswer" />
+    <EntitySet Name="SearchMethods" EntityType="Self.SearchMethod" />
+  </EntityContainer>
+</Schema>

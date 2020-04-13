@@ -1,0 +1,52 @@
+C:\Users\itayn\Documents\.NET FullStack\ADO.NET\my project ADO\ItayProject\ItayProject\bin\Debug\TheSearchInPC.mdf
+C:\Users\itayn\Documents\.NET FullStack\ADO.NET\my project ADO\ItayProject\ItayProject\bin\Debug\TheSearchInPC_log.ldf
+C:\Users\itayn\Documents\.NET FullStack\ADO.NET\my project ADO\ItayProject\ItayProject\bin\Debug\ItayProject.exe.config
+C:\Users\itayn\Documents\.NET FullStack\ADO.NET\my project ADO\ItayProject\ItayProject\bin\Debug\ItayProject.exe
+C:\Users\itayn\Documents\.NET FullStack\ADO.NET\my project ADO\ItayProject\ItayProject\bin\Debug\ItayProject.pdb
+C:\Users\itayn\Documents\.NET FullStack\ADO.NET\my project ADO\ItayProject\ItayProject\bin\Debug\SearchLibrary.dll
+C:\Users\itayn\Documents\.NET FullStack\ADO.NET\my project ADO\ItayProject\ItayProject\bin\Debug\EntityFramework.dll
+C:\Users\itayn\Documents\.NET FullStack\ADO.NET\my project ADO\ItayProject\ItayProject\bin\Debug\SearchLibrary.pdb
+C:\Users\itayn\Documents\.NET FullStack\ADO.NET\my project ADO\ItayProject\ItayProject\bin\Debug\SearchLibrary.dll.config
+C:\Users\itayn\Documents\.NET FullStack\ADO.NET\my project ADO\ItayProject\ItayProject\bin\Debug\EntityFramework.xml
+C:\Users\itayn\Documents\.NET FullStack\ADO.NET\my project ADO\ItayProject\ItayProject\obj\Debug\ItayProject.csprojAssemblyReference.cache
+C:\Users\itayn\Documents\.NET FullStack\ADO.NET\my project ADO\ItayProject\ItayProject\obj\Debug\ItayProject.csproj.CoreCompileInputs.cache
+C:\Users\itayn\Documents\.NET FullStack\ADO.NET\my project ADO\ItayProject\ItayProject\obj\Debug\ItayProject.csproj.CopyComplete
+C:\Users\itayn\Documents\.NET FullStack\ADO.NET\my project ADO\ItayProject\ItayProject\obj\Debug\ItayProject.exe
+C:\Users\itayn\Documents\.NET FullStack\ADO.NET\my project ADO\ItayProject\ItayProject\obj\Debug\ItayProject.pdb
+C:\Users\itayn\Documents\.NET FullStack\ADO.NET\my project ADO\ItayProject\ItayProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\itayn\Documents\.NET FullStack\ADO.NET\my project ADO\ItayProject\ItayProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\itayn\Documents\.NET FullStack\ADO.NET\my project ADO\ItayProject\ItayProject\bin\Debug\Model1.Context.tt
+C:\Users\itayn\Documents\.NET FullStack\ADO.NET\my project ADO\ItayProject\ItayProject\bin\Debug\Model1.tt
+C:\Users\itayn\Documents\.NET FullStack\ADO.NET\my project ADO\ItayProject\ItayProject\bin\Debug\Model1.Context.cs
+C:\Users\itayn\Documents\.NET FullStack\ADO.NET\my project ADO\ItayProject\ItayProject\bin\Debug\Model1.cs
+C:\Users\itayn\Documents\.NET FullStack\ADO.NET\my project ADO\ItayProject\ItayProject\bin\Debug\Model1.Designer.cs
+C:\Users\itayn\Documents\.NET FullStack\ADO.NET\my project ADO\ItayProject\ItayProject\bin\Debug\SearchAnswer.cs
+C:\Users\itayn\Documents\.NET FullStack\ADO.NET\my project ADO\ItayProject\ItayProject\bin\Debug\SearchMethod.cs
+C:\Users\itayn\Documents\.NET FullStack\ADO.NET\my project ADO\ItayProject\ItayProject\bin\Debug\Model1.edmx.diagram
+C:\Users\itayn\Documents\.NET FullStack\ADO.NET\my project ADO\ItayProject\ItayProject\bin\Debug\Program.cs
+C:\Users\itayn\Documents\.NET FullStack\ADO.NET\my project ADO\Search in PC Project\ItayProject\bin\Debug\Model1.Context.tt
+C:\Users\itayn\Documents\.NET FullStack\ADO.NET\my project ADO\Search in PC Project\ItayProject\bin\Debug\Model1.tt
+C:\Users\itayn\Documents\.NET FullStack\ADO.NET\my project ADO\Search in PC Project\ItayProject\bin\Debug\TheSearchInPC.mdf
+C:\Users\itayn\Documents\.NET FullStack\ADO.NET\my project ADO\Search in PC Project\ItayProject\bin\Debug\TheSearchInPC_log.ldf
+C:\Users\itayn\Documents\.NET FullStack\ADO.NET\my project ADO\Search in PC Project\ItayProject\bin\Debug\Model1.Context.cs
+C:\Users\itayn\Documents\.NET FullStack\ADO.NET\my project ADO\Search in PC Project\ItayProject\bin\Debug\Model1.cs
+C:\Users\itayn\Documents\.NET FullStack\ADO.NET\my project ADO\Search in PC Project\ItayProject\bin\Debug\Model1.Designer.cs
+C:\Users\itayn\Documents\.NET FullStack\ADO.NET\my project ADO\Search in PC Project\ItayProject\bin\Debug\SearchAnswer.cs
+C:\Users\itayn\Documents\.NET FullStack\ADO.NET\my project ADO\Search in PC Project\ItayProject\bin\Debug\SearchMethod.cs
+C:\Users\itayn\Documents\.NET FullStack\ADO.NET\my project ADO\Search in PC Project\ItayProject\bin\Debug\Model1.edmx.diagram
+C:\Users\itayn\Documents\.NET FullStack\ADO.NET\my project ADO\Search in PC Project\ItayProject\bin\Debug\Program.cs
+C:\Users\itayn\Documents\.NET FullStack\ADO.NET\my project ADO\Search in PC Project\ItayProject\bin\Debug\ItayProject.exe.config
+C:\Users\itayn\Documents\.NET FullStack\ADO.NET\my project ADO\Search in PC Project\ItayProject\bin\Debug\ItayProject.exe
+C:\Users\itayn\Documents\.NET FullStack\ADO.NET\my project ADO\Search in PC Project\ItayProject\bin\Debug\ItayProject.pdb
+C:\Users\itayn\Documents\.NET FullStack\ADO.NET\my project ADO\Search in PC Project\ItayProject\bin\Debug\EntityFramework.dll
+C:\Users\itayn\Documents\.NET FullStack\ADO.NET\my project ADO\Search in PC Project\ItayProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\itayn\Documents\.NET FullStack\ADO.NET\my project ADO\Search in PC Project\ItayProject\bin\Debug\SearchLibrary.dll
+C:\Users\itayn\Documents\.NET FullStack\ADO.NET\my project ADO\Search in PC Project\ItayProject\bin\Debug\SearchLibrary.pdb
+C:\Users\itayn\Documents\.NET FullStack\ADO.NET\my project ADO\Search in PC Project\ItayProject\bin\Debug\SearchLibrary.dll.config
+C:\Users\itayn\Documents\.NET FullStack\ADO.NET\my project ADO\Search in PC Project\ItayProject\bin\Debug\EntityFramework.xml
+C:\Users\itayn\Documents\.NET FullStack\ADO.NET\my project ADO\Search in PC Project\ItayProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\itayn\Documents\.NET FullStack\ADO.NET\my project ADO\Search in PC Project\ItayProject\obj\Debug\ItayProject.csprojAssemblyReference.cache
+C:\Users\itayn\Documents\.NET FullStack\ADO.NET\my project ADO\Search in PC Project\ItayProject\obj\Debug\ItayProject.csproj.CoreCompileInputs.cache
+C:\Users\itayn\Documents\.NET FullStack\ADO.NET\my project ADO\Search in PC Project\ItayProject\obj\Debug\ItayProject.csproj.CopyComplete
+C:\Users\itayn\Documents\.NET FullStack\ADO.NET\my project ADO\Search in PC Project\ItayProject\obj\Debug\ItayProject.exe
+C:\Users\itayn\Documents\.NET FullStack\ADO.NET\my project ADO\Search in PC Project\ItayProject\obj\Debug\ItayProject.pdb
